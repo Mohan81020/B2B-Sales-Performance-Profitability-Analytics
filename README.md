@@ -14,7 +14,7 @@ The dashboard transforms transactional sales data into an executive-friendly ana
 
 The executive overview tracks overall sales growth, target achievement, profitability, return rate, regional contribution, and product-category performance.
 
-![Sales Performance Overview](images/01-sales-performance-overview.jpg)
+![Sales Performance Overview](Image/1_page-0001.jpg)
 
 ---
 
@@ -22,7 +22,7 @@ The executive overview tracks overall sales growth, target achievement, profitab
 
 This page evaluates profitability across product categories, discount impact, gross margin, average order value, gross profit per order, and return-rate patterns.
 
-![Profitability & Product Portfolio](images/02-profitability-product-portfolio.jpg)
+![Profitability & Product Portfolio](Image/2_page-0002.jpg)
 
 ---
 
@@ -30,7 +30,7 @@ This page evaluates profitability across product categories, discount impact, gr
 
 This page analyzes sales-team performance, channels, customer segments, order completion, regional contribution, and the impact of business events on sales.
 
-![Markets & Execution](images/03-markets-execution.jpg)
+![Markets & Execution](Image/3_page-0003.jpg)
 
 ---
 
@@ -38,7 +38,7 @@ This page analyzes sales-team performance, channels, customer segments, order co
 
 The final page translates the dashboard analysis into business-focused insights and recommendations.
 
-![Insights & Recommendations](images/04-insights-recommendations.jpg)
+![Insights & Recommendations](Image/3_page-0004.jpg)
 
 ---
 
